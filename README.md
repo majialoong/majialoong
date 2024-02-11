@@ -1,5 +1,5 @@
 - 👋 Hi, I’m majialong
-- 👀 I’m interested in big data
+- 👀 I’m interested in big data and cloud native
 - 🌱 I’m currently learning Apache Calcite and Apache Kafka
 
 <!---
